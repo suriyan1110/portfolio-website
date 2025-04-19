@@ -177,3 +177,46 @@ footer a {
 footer p {
     margin-top: 10px;
 }
+#veeam-project {
+    background-color: #f4f4f9;
+    padding: 30px;
+    margin-top: 20px;
+}
+
+#veeam-project h1 {
+    font-size: 2.5rem;
+    color: #333;
+}
+
+#veeam-project .project-img {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin: 20px 0;
+}
+
+#veeam-project ul {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#veeam-project ul li {
+    font-size: 1.2rem;
+    margin: 10px 0;
+    color: #555;
+}
+
+#veeam-project .button {
+    display: inline-block;
+    padding: 10px 20px;
+    background-color: #ff7b00;
+    color: white;
+    text-decoration: none;
+    border-radius: 5px;
+    margin-top: 20px;
+}
+
+#veeam-project .button:hover {
+    background-color: #e67600;
+}
+
